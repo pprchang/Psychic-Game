@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css?family=Girassol|Playfair+Display&display=swap" rel="stylesheet">
+    
+    <title>Psychic Game</title>
+</head>
+<body>
+    <div class="jumbotron jumbotron-fluid">
+        <div class="container">
+          <h1 class="display-6 text-center font-weight-bolder">Guess What Letter I'm Thinking Of:</h1>
+          <p class="lead text-center font-weight-bold">press a letter to start guessing</p>
+        </div>
+    </div>
+    
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-2"></div> 
+
+            <div class="col-sm-8 clearfix">
+        
+                <div class="card float-left p-3" style="width: 10rem; box-sizing: border-box;">
+                    <img src="assets/images/winner2.jpg" class="card-img-top" alt="Win image">
+                    <hr>
+                    <div class="card-body">
+                    <h2 id="wins-text" class="text-center font-weight-bolder text-success"></h2>
+                    </div>
+                </div>
+        
+                <div class="card float-right p-3" style="width: 10rem; box-sizing: border-box;">
+                    <img src="assets/images/you-lose-banner-sm-@x2.png" class="card-img-top" alt="Losses image">
+                    <hr>
+                    <div class="card-body">
+                    <h2 id="losses-text" class="text-center font-weight-bolder text-danger"></h2>
+                </div>
+                
+
+            </div>
+
+            <div class="col-sm-2"></div>
+            
+
+        </div>
+
+    </div>
+    
+    <br>
+
+    <br>
+
+    <h4><div id="guessesleft-text" class="text-center font-weight-bold" ></div></h4>
+
+    <br>
+
+    <h4><div id="yourguesses-text" class="text-center font-weight-bold"></div></h4>
+
+    <br>
+    
+
+    <script src="./assets/javascript/game.js"></script>
+
+
+</body>
+</html>
