@@ -12,7 +12,7 @@ Visual Stuido Code (https://code.visualstudio.com/)
 ### Layout and Styling: 
 Bootstrap 4 (https://getbootstrap.com/)
 
-### Javascript
+### Javascript:
 1. Function for app to randomly pick a letter
 2. OnKeyUp function to listen to which key user pressed
 3. If else if statement to compare the key user pressed with app random letter
