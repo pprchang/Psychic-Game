@@ -4,7 +4,7 @@ The app will randomly pick a letter and the user would guess which letter the ap
 ### Link to Live Page
 (https://pprchang.github.io/Psychic-Game/)
 
-## Built With
+## *Built With*
 
 #### Code Editor: 
 Visual Stuido Code (https://code.visualstudio.com/)
@@ -20,7 +20,7 @@ Bootstrap 4 (https://getbootstrap.com/)
 5. Function to reset game
 6. Audios were also added to enhance user interaction
 
-## Contributing 
+## *Contributing* 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.  Thank you for your corporation.
 
 
