@@ -7,10 +7,11 @@ The app will randomly pick a letter and the user would guess which letter the ap
 ## *Built With*
 
 #### Code Editor: 
-Visual Stuido Code (https://code.visualstudio.com/)
+ - Visual Stuido Code (https://code.visualstudio.com/)
 
 #### Layout and Styling: 
-Bootstrap 4 (https://getbootstrap.com/)
+- Bootstrap 4 (https://getbootstrap.com/)
+- CSS 3
 
 #### Javascript:
 1. Function for app to randomly pick a letter
