@@ -19,7 +19,7 @@ The app will randomly pick a letter and the user would guess which letter the ap
 3. If else if statement to compare the key user pressed with app random letter
 4. document.getElementByID to update wins, losses, guess left and guess so far in html
 5. Function to reset game
-6. Audios were also added to enhance user interaction
+6. Audios were also added to enhance user experience
 
 ## *Contributing* 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.  Thank you for your corporation.
